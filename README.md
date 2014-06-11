@@ -1,6 +1,6 @@
 # transform-uppercase
 
-transform that makes all values uppercase. mostly for testing
+Transform that makes all values uppercase.
 
 ```
 npm install transform-uppercase

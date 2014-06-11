@@ -1,7 +1,7 @@
 {
   "name": "transform-uppercase",
   "version": "0.0.0",
-  "description": "transform that makes all values uppercase. mostly for testing",
+  "description": "Transform that makes all values uppercase",
   "main": "index.js",
   "repository": {
     "type": "git",
