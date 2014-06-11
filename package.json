@@ -1,6 +1,6 @@
 {
   "name": "transform-uppercase",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Transform that makes all values uppercase",
   "main": "index.js",
   "repository": {
